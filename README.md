@@ -25,3 +25,17 @@ The website is designed to showcase the candidate’s vision, connect with citiz
 
 ## 📂 Project Structure
 
+vaibhav-marde-vision-main/
+├── public/
+│ ├── _redirects
+│ └── assets/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── assets/
+│ ├── App.jsx
+│ └── main.jsx
+├── .gitignore
+├── package.json
+├── vite.config.ts
+└── README.md
