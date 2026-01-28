@@ -7,8 +7,8 @@ The website is designed to showcase the candidate’s vision, connect with citiz
 
 ## 🚀 Live Website
 
-🔗 Live URL: https://your-site-name.netlify.app  
-(Replace this link with your actual Netlify URL)
+🔗 Live URL:(https://mivaibhavmarde.netlify.app/) 
+
 
 ---
 
